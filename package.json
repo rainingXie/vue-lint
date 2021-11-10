@@ -24,7 +24,7 @@
   "scripts": {
     "build": "webpack --config ./webpack.config.js",
     "start": "webpack-dev-server --config ./webpack.dev.conf.js",
-    "precommit": "lint-staged"
+    "prepare": "husky install"
   },
   "author": "",
   "license": "ISC",

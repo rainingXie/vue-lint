@@ -14,6 +14,8 @@ export default {
     getText() {
       return this.aa
     }
+
+
     getText1() {
       return this.aa
     }
